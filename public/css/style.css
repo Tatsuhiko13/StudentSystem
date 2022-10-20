@@ -1,0 +1,12 @@
+.head {
+  text-align: center;
+   font-size: 24px;
+}
+
+ul{
+ display: flex;
+}
+li{
+  list-style: none;
+  margin-left: 20px;
+}
